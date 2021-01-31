@@ -7,6 +7,9 @@ dev 👨🏻‍💻\
 photographer 📷\
 obsessed with learning new stuff 🏃🏻
 
+![](https://komarev.com/ghpvc/?username=osmancandulger&color=blue)
+
+
 contact me:https://osmancandulger.github.io/
 
 [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/osmancandulger/my-stack)
