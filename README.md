@@ -1,7 +1,8 @@
 # osmancandulger
 
 
-Hello! 🤙 I'm OCD, who try to be a junior developer from Istanbul,Turkey 
+Hello! 🤙 I'm OCD,\
+who try to be a junior developer from Istanbul,Turkey 
 
 dev 👨🏻‍💻\
 photographer 📷\
@@ -11,6 +12,6 @@ looking for internship opportunities 👀
 ![](https://komarev.com/ghpvc/?username=osmancandulger&color=blue)
 
 
-contact me:https://osmancandulger.github.io/
+personel card:https://osmancandulger.github.io/
 
 [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/osmancandulger/my-stack)
