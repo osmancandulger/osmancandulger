@@ -7,7 +7,7 @@ who try to be a junior developer from Istanbul,Turkey
 dev 👨🏻‍💻\
 photographer 📷\
 obsessed with learning new stuff 🏃🏻 
-
+MEVN Stack 🥞
 ![](https://komarev.com/ghpvc/?username=osmancandulger&color=blue)
 
 
