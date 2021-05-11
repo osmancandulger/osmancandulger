@@ -2,7 +2,7 @@
 
 
 Hello! 🤙 I'm OCD,\
-who try to be a junior developer from Istanbul,Turkey 
+who try to be a junior software developer from Istanbul,Turkey 
 
 dev 👨🏻‍💻\
 photographer 📷\
