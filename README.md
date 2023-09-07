@@ -2,7 +2,7 @@
 
 
 Hello! 🤙 I'm OCD,\
-acting like a junior JavaScript developer from Istanbul,Turkey 
+acting like a JavaScript developer from Istanbul,Turkey 
 
 dev 👨🏻‍💻\
 photographer 📷\
